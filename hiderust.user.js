@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name        remove rust
+// @name        Hide Rust
 // @namespace   inabahare
-// @description rust sucks, therefore we should remove it.
+// @description rust sucks, therefore we should remove/hide it.
 // @include     *facepunch.com/*
 // @version     1
 // @grant       none
